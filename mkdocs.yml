@@ -142,6 +142,7 @@ nav:
       - 'threat-modeling.md'
       - 'technology/dns.md'
       - 'security/multi-factor-authentication.md'
+      - 'how-tor-works.md'
     - 'Android':
       - 'android/overview.md'
       - 'android/grapheneos-vs-calyxos.md'
