@@ -32,7 +32,7 @@ Shut down your computer and enter your computer's UEFI settings. You may need to
 
 ##Erasing Specific Files
 
-Erasing individual files is futile. You should copy your file over to a new (hopefully encrypted) drive and use the above methods to erase your current drive. SSD's implement wear leveling to help extend the life of the drive. This will cause data to be written in multiple places on the drive, making it impossible to know if the file was truly erased. Even if you attempt to overwrite all free space, the actual available storage on the drive is usually more than what is exposed to you, so there will still be leftover data. There's also the SLC cache which can be multiple gigabytes, meaning that the data data won't be erased for multiple minutes.
+Erasing individual files is futile. You should copy your file over to a new (hopefully encrypted) drive and use the above methods to erase your current drive. SSD's implement wear leveling to help extend the life of the drive, which will cause data to be written in multiple places on the drive, making it impossible to know if the file was truly erased. Even if you attempt to overwrite all free space, the actual available storage on the drive is usually more than what is exposed to you, so there will still be leftover data. There's also the SLC cache which can be multiple gigabytes, meaning that the data data won't be erased for multiple minutes.
 
 
 
