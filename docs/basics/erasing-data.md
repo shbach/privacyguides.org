@@ -16,7 +16,9 @@ For this situation, pressing ++del++ on a file isn't enough; this will tell the 
 
 ###:material-harddisk:HDD:
 
-###:material-rabbit-running:SSD: Shut down your computer and enter your computer's UEFI settings. You may need to check your motherboard's manual for which key to press on startup. Usually it's ++f2++ at the top of your keyboard or the ++del++ key. Once in your UEFI settings, there should be an option called "SecureErase." Choosing this will let you safely wipe your drive.
+###:material-rabbit-running:SSD 
+
+Shut down your computer and enter your computer's UEFI settings. You may need to check your motherboard's manual for which key to press on startup. Usually it's ++f2++ at the top of your keyboard or the ++del++ key. Once in your UEFI settings, there should be an option called "SecureErase." Choosing this will let you safely wipe your drive.
 
 ##Erasing Specific Files
 
