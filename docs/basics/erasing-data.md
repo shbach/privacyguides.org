@@ -10,7 +10,7 @@ icon: 'material/delete-forever'
 
     If your drive is encrypted, you do not need to worry about leaving traces of files on your computer, as your files are already impossible to access without the encryption key. If your drive is not encrypted, you should choose one of these [full disk encryption](/encryption/#os-full-disk-encryption) options.
 
-For this situation, pressing ++del++ on a file isn't enough; this will tell the drive to allow this space to be overwritten, but the data will still be there. You don't know when the data will be overwritten, or even if it will at all. To ensure your files cannot be recovered, you will need to follow these steps:
+For an unencrypted drive, pressing ++del++ on a file isn't enough; this will tell the drive to allow this space to be overwritten, but the data will still be there. You don't know when the data will be overwritten, or even if it will at all. To ensure your files cannot be recovered, you will need to follow these steps:
 
 !!! Warning
 
