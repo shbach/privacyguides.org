@@ -4,7 +4,7 @@ icon: 'material/delete-forever'
 ---
 **Erasing files** from your computer may seem like a simple task, but if you want to make sure they are unrecoverable, there are some things you need to consider.
 
-If your drive is [encrypted](../encryption.en.md/#os-full-disk-encryption), then you don't usually need to worry about deleting files; all your data is already impossible to read without the encryption key. An unencryped drive is another story.
+If your drive is [encrypted](/encryption.en.md/#os-full-disk-encryption), then you don't usually need to worry about deleting files; all your data is already impossible to read without the encryption key. An unencryped drive is another story.
 
 For this situation, pressing "delete" on a file isn't enough; this will tell the drive to allow this space to be overwritten, but the data will still be there. You don't know when the data will be overwritten, or even if it will at all. To ensure your files cannot be recovered, you will need to follow these steps:
 
