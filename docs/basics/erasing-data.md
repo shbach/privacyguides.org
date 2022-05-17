@@ -14,9 +14,11 @@ For this situation, pressing ++del++ on a file isn't enough; this will tell the 
 
     The data on your drive will not be recoverable. You should make sure you have any files you need backed up before performing this action!
 
-###:material-harddisk:HDD:
+###:material-harddisk:HDD
 
-###:material-rabbit-running:SSD 
+For an HDD, we recommend you use `nwipe` to 
+
+###:fontawesome-rabbit-running:SSD
 
 Shut down your computer and enter your computer's UEFI settings. You may need to check your motherboard's manual for which key to press on startup. Usually it's ++f2++ at the top of your keyboard or the ++del++ key. Once in your UEFI settings, there should be an option called "SecureErase." Choosing this will let you safely wipe your drive.
 
