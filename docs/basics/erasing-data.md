@@ -12,7 +12,7 @@ For this situation, pressing ++del++ on a file isn't enough; this will tell the 
 
 !!! Warning
 
-    The data on your drive will not be recoverable. You should make sure you have any files you need on a separate drive before performing this action!
+    The data on your drive will not be recoverable. You should make sure you have any files you need backed up before performing this action!
 
 :material-harddisk:**Spinning Hard Drive:**
 
