@@ -18,10 +18,18 @@ For this situation, pressing ++del++ on a file isn't enough; this will tell the 
 
 For an **HDD**, we recommend you use `nwipe`. Install [Balena Etcher](https://www.balena.io/etcher/) and make sure you have a usb flash drive (it will be wiped so make sure there aren't any important files on it). Download a [ShredOS](https://github.com/PartialVolume/shredos.x86_64#download-img-and-iso-files-for-burning-to-usb-flash-drives-and-cd-rdvd-r) .iso file and run Balena Etcher with your USB drive plugged in. Once you're done flashing the USB drive, restart your computer and enter your UEFI settings. There should be a "Boot Override" option somewhere. Select your USB device from the menu and it will boot into ShredOS. Follow the onscreen prompts to wipe your data.
 
-###:material-run-fast:SSD
+###:material-run-fast:ATA SSD
 
 Shut down your computer and enter your computer's UEFI settings. You may need to check your motherboard's manual for which key to press on startup. Usually it's ++f2++ at the top of your keyboard or the ++del++ key. Once in your UEFI settings, there should be an option called "SecureErase." Choosing this will let you safely wipe your drive.
 
+###:material-run-fast:NVMe
+
 ##Erasing Specific Files
+
+!!! note 
+
+    If your drive is encrypted, you do not need to worry about leaving traces of files on your computer. If your drive is not encrypted, you should choose one of these [full disk encryption](/encryption/#os-full-disk-encryption) options.
+
+
 
 --8<-- "includes/abbreviations.en.md"
