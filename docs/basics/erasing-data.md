@@ -18,7 +18,7 @@ For an unencrypted drive, pressing ++del++ on a file isn't enough; this will tel
 
 !!! note
 
-    None of these methods are guaranteed to make your data completely unrecoverable. The best (and most fun) method is to 
+    None of these methods are guaranteed to make your data completely unrecoverable. The best (and most fun) method is to grab a hammer or your favorite implement of destruction and smash it into pieces. Of course, make sure to be careful not injure yourself or anyone else.
 
 ###:material-harddisk:HDD
 
