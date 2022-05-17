@@ -10,7 +10,7 @@ For this situation, pressing "delete" on a file isn't enough; this will tell the
 
 !!! Warning
 
-    The data on your drive will not be recoverable; make sure you have any files you need on a separate drive before performing this action!
+    The data on your drive will not be recoverable. You should make sure you have any files you need on a separate drive before performing this action!
 
 **Spinning Hard Drive:**
 
